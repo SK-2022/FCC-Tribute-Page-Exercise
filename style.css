@@ -1,0 +1,38 @@
+body {
+  font-size: 1 rem;
+}
+
+#main {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px 8px;
+  padding: 15px;
+  background: #eee;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#img-div {
+  max-width: 100%;
+  margin: 0 auto;
+  height: 100%;
+  text-align: center;
+}
+
+#image {
+  max-width: 80%;
+  max-height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.unordered-list {
+  text-align: left;
+  line-height: 1.6;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+}
+
+#tribute-link {
+  color: rgb(59, 107, 209);
+}
